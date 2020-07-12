@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2aa4c60d-174a-4dd7-a4a0-af26db317ac7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/uts/src/pages/admin/home/editdatabarang.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/quasar.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/uts/quasar.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/boot/axios.ts" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/boot/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/layouts/LayoutPembeli.vue" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/layouts/LayoutPembeli.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/layouts/MainLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/layouts/MainLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/pages/admin/home/DataBarang.vue" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/pages/admin/home/DataBarang.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/pages/admin/home/InputDataBarang.vue" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/pages/admin/home/InputDataBarang.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/pages/admin/transaksi/DataTransaksi.vue" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/pages/admin/transaksi/DataTransaksi.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/pages/pembeli/databarang/datapembeli.vue" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/pages/pembeli/databarang/datapembeli.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/pages/users/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/pages/users/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/pages/users/Registrasi.vue" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/pages/users/Registrasi.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uts/src/router/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/uts/src/router/routes.ts" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uts/src/layouts/MainLayout.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="118" column="44" lean-forward="true" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#q-linear-progress#0;n#div#0;n#div#0;n#q-menu#0;n#q-btn#1;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#q-item#0;n#q-list#0;n#q-scroll-area#0;n#q-drawer#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uts/src/layouts/LayoutPembeli.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1598">
+              <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+              <folding>
+                <element signature="n#style#0;n#q-btn#1;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#q-linear-progress#0;n#div#0;n#div#0;n#q-menu#0;n#q-btn#1;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#q-item#0;n#q-list#0;n#q-scroll-area#0;n#q-drawer#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/home/InputDataBarang.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2482">
+              <caret line="146" column="13" selection-start-line="146" selection-start-column="13" selection-end-line="146" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#q-btn#0;n#div#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/home/editdatabarang.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+              <folding>
+                <element signature="n#style#0;n#q-img#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#q-btn#0;n#div#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/transaksi/DataTransaksi.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1084">
+              <caret line="89" column="59" selection-start-line="89" selection-start-column="59" selection-end-line="89" selection-end-column="59" />
+              <folding>
+                <element signature="n#style#0;n#q-select#0;n#div#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uts/src/layouts/LoginRegisLayout.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uts/src/pages/users/Login.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1445">
+              <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/home/DataBarang.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="51" column="67" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uts/src/pages/pembeli/databarang/datapembeli.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#q-img#0;n#q-card-section#1;n#q-card#0;n#div#0;n#div#0;n#div#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uts/src/router/routes.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/uts/src/layouts/LoginRegisLayout.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/admin/Login.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/admin/Registrasi.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/home/DataBarang.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/home/InputDataBarang.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/transaksi/DataTransaksi.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/pembeli/datapembeli.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/admin/home/halaman.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/pembeli/databarang/datapengiriman.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/pembeli/datatransaksi/dataTransaksi.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/pembeli/databarang/datapembayaran.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/pembeli/datatransaksi/dataPembeli.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/admin/transaksi/dataPembeli.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/pembeli/prosedur/howtouse.vue" />
+        <option value="$PROJECT_DIR$/uts/src/boot/axios.ts" />
+        <option value="$PROJECT_DIR$/uts/src/boot/axios.js" />
+        <option value="$PROJECT_DIR$/uts/quasar.conf.js" />
+        <option value="$PROJECT_DIR$/uts/src/router/index.ts" />
+        <option value="$PROJECT_DIR$/uts/src/pages/admin/home/InputDataBarang.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/admin/home/DataBarang.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/pembeli/databarang/datapembeli.vue" />
+        <option value="$PROJECT_DIR$/uts/src/router/routes.ts" />
+        <option value="$PROJECT_DIR$/uts/src/pages/users/Registrasi.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/users/Login.vue" />
+        <option value="$PROJECT_DIR$/uts/src/layouts/MainLayout.vue" />
+        <option value="$PROJECT_DIR$/uts/src/layouts/LayoutPembeli.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/admin/home/editdatabarang.vue" />
+        <option value="$PROJECT_DIR$/uts/src/pages/admin/transaksi/DataTransaksi.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="transaksi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="pembeli" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="statics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="uts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="uts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:\uts\uts\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2018.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\uts\uts\src\pages\admin\transaksi" />
+      <recent name="E:\uts\uts\src\pages\pembeli\databarang" />
+      <recent name="E:\uts\uts\src\pages\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\uts\uts\src\statics\icons" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aa4c60d-174a-4dd7-a4a0-af26db317ac7" name="Default Changelist" comment="" />
+      <created>1586882643616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586882643616</updated>
+      <workItem from="1586882647523" duration="4754000" />
+      <workItem from="1587107874579" duration="2974000" />
+      <workItem from="1587106933557" duration="1756000" />
+      <workItem from="1587168894115" duration="2760000" />
+      <workItem from="1587223418283" duration="2742000" />
+      <workItem from="1587224550572" duration="39708000" />
+      <workItem from="1587223276612" duration="9602000" />
+      <workItem from="1587223921833" duration="8360000" />
+      <workItem from="1587224518620" duration="5491000" />
+      <workItem from="1587557247256" duration="3362000" />
+      <workItem from="1587556863529" duration="1650000" />
+      <workItem from="1587559559984" duration="9766000" />
+      <workItem from="1590730670836" duration="39000" />
+      <workItem from="1590976210373" duration="1131000" />
+      <workItem from="1590989093021" duration="691000" />
+      <workItem from="1590989978953" duration="391000" />
+      <workItem from="1590996522237" duration="848000" />
+      <workItem from="1590999910185" duration="1185000" />
+      <workItem from="1591084129637" duration="147000" />
+      <workItem from="1591858012450" duration="486000" />
+      <workItem from="1591860256290" duration="141000" />
+      <workItem from="1592148724962" duration="1199000" />
+      <workItem from="1592272640389" duration="2003000" />
+      <workItem from="1592289257723" duration="2781000" />
+      <workItem from="1592398273853" duration="4574000" />
+      <workItem from="1592464315963" duration="748000" />
+      <workItem from="1592469127892" duration="6128000" />
+      <workItem from="1592490750871" duration="406000" />
+      <workItem from="1592623753103" duration="623000" />
+      <workItem from="1593134394786" duration="747000" />
+      <workItem from="1593138395658" duration="4313000" />
+      <workItem from="1593485713946" duration="3004000" />
+      <workItem from="1593574579964" duration="2285000" />
+      <workItem from="1593608987327" duration="1168000" />
+      <workItem from="1593612622193" duration="6437000" />
+      <workItem from="1593660205851" duration="2996000" />
+      <workItem from="1593672599669" duration="2550000" />
+      <workItem from="1593680340552" duration="141000" />
+      <workItem from="1593680592932" duration="181000" />
+      <workItem from="1593692687084" duration="3904000" />
+      <workItem from="1593823871548" duration="8522000" />
+      <workItem from="1593847737038" duration="659000" />
+      <workItem from="1593912823756" duration="789000" />
+      <workItem from="1594269132123" duration="5104000" />
+      <workItem from="1594289492052" duration="13653000" />
+      <workItem from="1594383055030" duration="4437000" />
+      <workItem from="1594467114960" duration="270000" />
+      <workItem from="1594470173375" duration="11951000" />
+      <workItem from="1594514575095" duration="8252000" />
+      <workItem from="1594526236703" duration="9476000" />
+      <workItem from="1594552731546" duration="2361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="209646000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="TypeScript" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.17512275" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/Index.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/Error404.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/home/halaman.vue" />
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/transaksi/dataPembeli.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/pembeli/databarang/datapembayaran.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="62" selection-start-column="62" selection-end-column="62" />
+          <folding>
+            <element signature="n#style#0;n#q-btn#0;n#div#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/pembeli/datatransaksi/dataTransaksi.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/pembeli/prosedur/howtouse.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#q-img#0;n#q-card-section#1;n#q-card#0;n#div#0;n#div#0;n#div#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/quasar.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/boot/axios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/router/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/pembeli/databarang/datapengiriman.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#q-btn#0;n#div#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/users/Registrasi.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="78" selection-start-line="31" selection-start-column="78" selection-end-line="31" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/layouts/LayoutPembeli.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="35" selection-start-line="94" selection-start-column="35" selection-end-line="94" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#q-btn#1;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#q-linear-progress#0;n#div#0;n#div#0;n#q-menu#0;n#q-btn#1;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#q-item#0;n#q-list#0;n#q-scroll-area#0;n#q-drawer#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/home/InputDataBarang.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="146" column="13" selection-start-line="146" selection-start-column="13" selection-end-line="146" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#q-btn#0;n#div#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/layouts/LoginRegisLayout.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/users/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/home/DataBarang.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="67" selection-start-line="51" selection-start-column="67" selection-end-line="51" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/pembeli/databarang/datapembeli.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#q-img#0;n#q-card-section#1;n#q-card#0;n#div#0;n#div#0;n#div#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/router/routes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/layouts/MainLayout.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="118" column="44" lean-forward="true" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#q-linear-progress#0;n#div#0;n#div#0;n#q-menu#0;n#q-btn#1;n#q-toolbar#0;n#q-header#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#q-item#0;n#q-list#0;n#q-scroll-area#0;n#q-drawer#0;n#q-layout#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/home/editdatabarang.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="74" column="38" lean-forward="true" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#q-img#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#q-btn#0;n#div#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uts/src/pages/admin/transaksi/DataTransaksi.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1084">
+          <caret line="89" column="59" selection-start-line="89" selection-start-column="59" selection-end-line="89" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#q-select#0;n#div#0;n#q-form#0;n#div#0;n#q-card#0;n#q-page#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
